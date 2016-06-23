@@ -1,5 +1,10 @@
 /* Base styles */
 
+* {
+	box-sizing: border-box;
+}
+
+
 h1 {
 	font-family: Brushstroke, fantasy;
 	color: #FFFFFF;
@@ -27,9 +32,9 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #FFA500;
+	background-color: #FFBF00;
 	width: 100%;
-	height: 200px;
+	height: 160px;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
@@ -47,7 +52,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF00DA;
+	background-color: #FF1439;
 }
 
 #beef {
